@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cosmear
 - 👀 I’m interested in video game development
 - 🌱 I’m currently learning video game development at the Universidad Argentina de la Empresa
-- 💞️ I’m looking to collaborate on videogames 
+- 💞️ I’m looking to collaborate on help develop video games and game tester
 - 📫 How to reach me: cargerich8@gnail.com // +5491155746444
 
 <!---
