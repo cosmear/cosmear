@@ -11,7 +11,7 @@
 ----------------------------------------------------------------------------------------------------------
 
 # 👋 Hola, soy @cosmear
-🎮 Apasionado por el desarrollo de videojuegos
+🎮 Apasionado por los videojuegos
 🌱 Actualmente estoy estudiando desarrollo de videojuegos en la Universidad Argentina de la Empresa
 💻 Tengo experiencia en lenguajes de programación como C++, C# y JavaScript
 🎮 Manejo motores de juego como Unity y Unreal Engine
