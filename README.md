@@ -10,7 +10,7 @@
 
 ----------------------------------------------------------------------------------------------------------
 
-👋 Hola, soy @cosmear
+# 👋 Hola, soy @cosmear
 🎮 Apasionado por el desarrollo de videojuegos
 🌱 Actualmente estoy estudiando desarrollo de videojuegos en la Universidad Argentina de la Empresa
 💻 Tengo experiencia en lenguajes de programación como C++, C# y JavaScript
