@@ -1,4 +1,4 @@
-👋 Hi, I’m @cosmear
+# 👋 Hi, I’m @cosmear
 🎮 Passionate about video game development
 🌱 Currently learning video game development at the Universidad Argentina de la Empresa
 💻 Proficient in programming languages like C++, C#, and JavaScript
