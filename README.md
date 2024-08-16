@@ -18,7 +18,7 @@
 🎯 Interesado en el diseño y la programación de videojuegos
 📚 Siempre dispuesto a aprender nuevas tecnologías y técnicas en el desarrollo de videojuegos
 🤝 Busco colaborar en proyectos de desarrollo de videojuegos y estoy disponible para testing de juegos
-📫 Puedes contactarme por email: cargerich8@gmail.com o por teléfono: +54 9 11 5574-6444
+📫 Podes contactarme por email: cargerich8@gmail.com o por teléfono: +54 9 11 5574-6444
 
 
 <!---
